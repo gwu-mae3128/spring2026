@@ -55,30 +55,6 @@ Bulusu, Kartik V. (2026, January). Week-0 Presentation: MAE 3128 Biomechanics-I.
   </tr>
 </table>
 
-<!-- ## Eliot Hunter (Tech Advocate / Teaching Assistant / The friend you want in this course!)
-<table>
-  <tr>
-    <td width="70%">
-      
-      I am a mechanical engineering graduate student at The George Washington University, specializing in energy systems with a focus on distributed energy resources, microgrids, and sustainable infrastructure. I am currently completing a master’s thesis centered on thermal management and heat transfer, applying advanced modeling and analysis techniques to better understand and optimize system-level thermal behavior. Alongside my studies, I serve as a Teaching Assistant and Research Fellow, supporting instruction and contributing to applied engineering research.
-
-      My academic and professional experience spans energy engineering, building automation systems, and data-driven analysis. I have previously worked as an Energy Engineer Intern at Southland Industries and as a Building Automation Systems Engineer Intern at the Federal Reserve Board, gaining hands-on experience with real-world energy systems and controls. I have strong technical skills in CAD, thermal systems analysis, and programming, with proficiency in Python, JavaScript, HTML/CSS, Java, and geospatial and visualization tools.
-    </td>
-
-    <td width="30%">
-      <img src="images/TA_EliotHunter.JPG" alt="TA" style="object-fit:contain width:400px;height:400px; margin-right: 10px;" />
-      <!-- <small>Dr. Kartik Bulusu</small><br> -->
-
-      <!-- **Campus Address:** TBA
-      
-      **Office Hours:** TBA
-
-      **Email:** ehunter25 at gwmail dot gwu dot edu -->
-    </td>
-
-  <!-- </tr>  
-</table>  -->
-
 
 
 <!-- 
