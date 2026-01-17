@@ -1,0 +1,83 @@
+---
+title: "Biomechanics-I"
+format: 
+  html: 
+    code-copy: true
+---
+
+<h2>From introduction to interface with the physical world</h2>
+
+:::{.callout-note}
+**Referencing this presentation:**
+
+Bulusu, Kartik V. (2026, January). Week-0 Presentation: MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae3128.github.io/spring2026/](https://gwu-mae3128.github.io/spring2026/)
+
+:::
+
+<style>
+* {
+  box-sizing: border-box;
+}
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 350px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+### Course and Contact Information
+<div class="row">
+ <div class="column">
+- **MAE 3128:** Biomechanics-I 
+- **Semester:**  Spring 2026
+- **Credits:** 3
+- **Meeting times:** Wednesday 12:30 PM — 3:00 PM (Lectures)
+- **Location:** SEH 3040
+- [**Course website**](https://gwu-mae3128.github.io/spring2026/) 
+<!-- [https://gwu-mae6291-iot.github.io/spring2025/] -->
+- **Instructor information** [can be found here](/instructor.qmd)
+ </div>
+
+ <div class="column">
+ <img src="/images/noun-biomechanical-7568986.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;" /><br>
+ <p><font size="1"><a href="https://thenounproject.com/browse/icons/term/biomechanical/" target="_blank" title="biomechanical Icons">Noun Project</a> (CC BY 3.0)</font></p>
+ </div>
+</div>
+
+
+
+<!-- ### Github Repo (updated weekly) -->
+<!-- ```python
+TBA
+``` -->
+
+<!-- ```python -->
+<!-- git clone https://github.com/gwu-mae6291-iot/spring2025_codes.git -->
+<!-- ``` -->
+
+### Course description
+This Biomechanics course introduces the mechanical analysis of biological tissues and systems, with an emphasis on both fundamentals and applications. Students first explore the historical development and modern scope of biomechanics, then learn the foundations of continuum mechanics as they apply to biological materials. 
+
+This course teaches the mechanical analysis of biological systems. This includes characterization of living tissue and the applications of statics, solid mechanics, kinematics, and elementary dynamics to the human musculoskeletal system.
+
+Building on this, the course develops equilibrium equations and constitutive relations for biosolid mechanics, and applies these tools to understand the behavior of hard tissues (such as bone and other load‑bearing structures) and soft tissues (such as muscle, tendons, ligaments, and other compliant biological materials). 
+ 
+
+<!-- 
+<br><br>
+<footer>
+  <p>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
+  Author: Kartik Bulusu<br>
+  Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
+  &copy; 2024 All rights reserved</p>
+</footer> -->
+

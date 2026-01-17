@@ -1,0 +1,55 @@
+---
+title: "About"
+format:
+  html:
+    code-copy: false
+---
+<html>
+<head>
+    <style>
+        body {
+            -webkit-user-select: none; /* Safari */
+            -moz-user-select: none; /* Firefox */
+            -ms-user-select: none; /* IE10+/Edge */
+            user-select: none; /* Standard */
+        }
+    </style>
+</head>
+<body>
+
+:::{.callout-note}
+**Referencing this presentation:**
+
+Bulusu, Kartik V. (2026, January). Week-0 Presentation: MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae3128.github.io/spring2026/](https://gwu-mae3128.github.io/spring2026/)
+
+:::
+
+## Learning objectives
+Course Learning Objectives: By the end of the course, you should be able to
+
+- Understand the scope and development of biomechanics.
+- Understand the concepts of continuum mechanics.
+- Learn the equilibrium equations and constitutive relations in biosolid mechanics.
+- Learn the applications of biomechanics to hard tissues.
+- Learn the applications of biomechanics to soft tissues.
+ 
+## Course format 
+- Lectures on the fundamentals of Biomechanics-I 
+- In-class problems
+- Homework
+- Interactive quizzes and instant concept checks
+- Two exams (Midterm and Final) 
+
+## Audience and credit-level
+The course is designed for junior-level undergraduate students as a 3-credit course. 
+
+## Prerequisites
+[APSC 2057](https://bulletin.gwu.edu/courses/apsc/) and [CE 2220](https://bulletin.gwu.edu/courses/ce/).
+
+## Workload
+This course will have 150 minutes of lecture time per week, that includes approximately 60-75 minutes of hands-on, microlab work. The course requires between 2-4 hours per week on average for homework assignments or project-based deliverables.
+
+## Textbook, and other course material
+**Recommended textbook:** An Introduction to Biomechanics: Solids and Fluids, Analysis and Design, 2nd Ed. by Humphrey, Jay D. & O’Rourke, Sherry L. 2013.
+
+**Lecture notes:** Instructor will provides notes through slide decks and related PDF documents on the course webpage.
