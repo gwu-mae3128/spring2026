@@ -40,7 +40,7 @@ Bulusu, Kartik V. (2026, January). Week-0 Presentation: MAE 3128 Biomechanics-I.
 - **MAE 3128:** Biomechanics-I 
 - **Semester:**  Spring 2026
 - **Credits:** 3
-- **Meeting times:** Wednesday 12:30 PM — 3:00 PM (Lectures)
+- **Meeting times:** Wednesday 10:00 AM — 12:30 PM (Lectures)
 - **Location:** SEH 3040
 - [**Course website**](https://gwu-mae3128.github.io/spring2026/) 
 <!-- [https://gwu-mae6291-iot.github.io/spring2025/] -->
