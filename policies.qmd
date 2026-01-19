@@ -38,7 +38,8 @@ Each week (almost) you will have to submit handwritten course notes to a noteboo
 - You will receive up to 2.5 points for each note assignment, and your highest 8 note scores will count towards your final grade.
 - You will use these notes for exams, so the better job you do, the better you will do on the exams.
 - Your notes must be handwritten (research shows that reading, identifying important information, and writing it by hand are highly effective learning tools). 
-- If you use a tablet and stylus, that is fine, but typing, copying and pasting, or screenshotting the textbook will not work. If you need an accommodation for the handwritten policy, please contact me, and we will find a solution for you
+- If you use a tablet and stylus, that is fine, but typing, copying and pasting, or screenshotting the textbook will not be considered for a grade. 
+- If you need an accommodation for the handwritten policy, please contact me, and we will find a solution for you
 - You are allowed to work in small groups during in-class problem solving activties.
 
 ## Homework 
@@ -56,9 +57,14 @@ We will meet for lectures, problem solving, and group work once a week.
 
 ## Exams  
 Two exams (midterm and final) will be given (check the dates now!).  
+
 - They will be based on lectures, assigned reading, homework, and classwork.  
 - They will be given in class and will be open-note, closed-book, individual work.  
+- Open-notes will be those note submitted for a grade during the course and any additional material the students may generate. 
+    - The notes must be strictly hand-written or prints of the tablet-generated, handwritten notes for the exams
+    - Tablets, laptops and any handheld deivces will not be allowed during exams.
 - A full week's notice is required to request an alternative exam date, except in cases of documented illness. 
+- Exams must be completed using paper and pen/pencil only.
 - Each exam is worth 30 points and is not strictly cumulative.  However, concepts will build on one another, so knowledge of prior topics may still be required.
 
 ## Grading - List of what will be counted and percentages (as used in Spring 2025 and can be changed in Spring 2026).
