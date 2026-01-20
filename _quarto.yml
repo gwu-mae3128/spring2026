@@ -14,6 +14,7 @@ website:
       - schedule.qmd       
       - text: "Notes"
         menu: 
+          - href: AnatomyVideos.qmd            
           - href: Week0.qmd     
       - instructor.qmd            
 

@@ -5,7 +5,7 @@ format html:
 :::{.callout-note}
 **Referencing this presentation:**
 
-Bulusu, Kartik V. (2026, January). Week-0 Presentation: MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae3128.github.io/spring2026/](https://gwu-mae3128.github.io/spring2026/)
+Bulusu, Kartik V. (2026, January). Week-1 Presentation: MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae3128.github.io/spring2026/](https://gwu-mae3128.github.io/spring2026/)
 
 :::
 
