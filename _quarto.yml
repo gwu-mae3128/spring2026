@@ -16,6 +16,7 @@ website:
         menu: 
           - href: AnatomyVideos.qmd            
           - href: Week0.qmd     
+          - href: Week1.qmd  
       - instructor.qmd            
 
 format:
