@@ -60,11 +60,11 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
 
 <table class="table table-hover w-auto">
   <colgroup>
-    <col style="width:3%">
-    <col style="width:26%">
+    <col style="width:2%">
+    <col style="width:28%">
     <col style="width:40%">
-    <col style="width:10%">
-    <col style="width:20%">
+    <col style="width:8%">
+    <col style="width:22%">
   </colgroup>
   <thead>
     <tr>
@@ -146,7 +146,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>Notes 2 (01/27)</li>
+          <li>Notes 2 (01/28)</li>
         </ul>      
       </td>
       <!-- <td> Column content</td>  -->
@@ -176,7 +176,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>Notes 3 (02/02)</li>
+          <li>Notes 3 (02/04)</li>
           <li>Homework 1 (02/04)</li>          
         </ul>      
       </td>
@@ -207,7 +207,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>Notes 4 (02/09)</li>       
+          <li>Notes 4 (02/11)</li>       
         </ul>      
       </td>
       <!--- <td>Column content</td> -->
@@ -272,7 +272,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>Homework 2 (02/23)</li>       
+          <li>Homework 2 (02/25)</li>       
         </ul>      
       </td>
       <!--- <td>Column content</td> -->
@@ -302,7 +302,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>Notes 5 (03/02)</li>       
+          <li>Notes 5 (03/04)</li>       
         </ul>      
       </td>
       <!--- <td>Column content</td> -->
@@ -345,7 +345,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td> 
       <td>
         <ul>
-          <li>Notes 6 (3/16)</li>       
+          <li>None</li>       
         </ul>      
       </td>
       <!--- <td>Column content</td> -->
@@ -376,7 +376,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>None</li>       
+          <li>Notes 6 (3/18)</li>       
         </ul>      
       </td>
       <!--- <td>Column content</td> -->
@@ -404,7 +404,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>Notes 7 (03/30)</li>       
+          <li>None</li>       
         </ul>      
       </td>
       <!--- <td>Column content</td> -->
@@ -434,8 +434,8 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>Notes 8 (04/06)</li>   
-          <li>Homework 3 (04/06)</li>               
+          <li>Notes 7 (04/01)</li>   
+          <li>Homework 3 (04/08)</li>               
         </ul>      
       </td>
       <!--- <td>Column content</td> -->
@@ -466,7 +466,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>Notes 9 (04/14)</li>            
+          <li>Notes 8 (04/08)</li>            
         </ul>      
       </td>
       <!--- <td>Column content</td> -->
@@ -496,7 +496,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>None</li>             
+          <li>Notes 9 (04/15)</li>             
         </ul>      
       </td>
       <!--- <td>Column content</td> -->
