@@ -146,7 +146,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>Notes 2 (01/28)</li>
+          <li>Notes 2 (01/29)</li>
         </ul>      
       </td>
       <!-- <td> Column content</td>  -->
