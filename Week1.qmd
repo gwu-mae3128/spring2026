@@ -10,7 +10,7 @@ Bulusu, Kartik V. (2026, January). Week-1 Presentation: MAE 3128 Biomechanics-I.
 :::
 
 ::: {.callout-note appearance="simple"}
-**Course materials developed by Prof. Kartik Bulusu for MAE 6291-Spring 2025.**
+**Course materials developed by Prof. Kartik Bulusu for MAE 3128-Spring 2026.**
 Note: Slides cannot be viewed on mobile and handheld devives (such as phones and notebooks)
 :::
 ![](Notes/Lecture1_Spring2026_MAE3128.pdf){width="100%" height="800px"}
