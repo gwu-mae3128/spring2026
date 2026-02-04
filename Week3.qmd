@@ -13,13 +13,13 @@ Bulusu, Kartik V. (2026, January). Week-3 Presentation: MAE 3128 Biomechanics-I.
 **Course materials developed by Prof. Kartik Bulusu for MAE 3128-Spring 2026.**
 Note: Slides cannot be viewed on mobile and handheld devives (such as phones and notebooks)
 :::
-## Lecture notes-1
+## Lecture notes-1: Generalized Concepts of Stress and Strain
 ![](Notes/Lecture3_Spring2026_MAE3128_set1.pdf){width="100%" height="800px"}
 
-## Lecture notes-2
+## Lecture notes-2: Normal and Shear Stress, Principal Stress and Principal Strain
 ![](Notes/Lecture3_Spring2026_MAE3128_set2.pdf){width="100%" height="800px"}
 
-## Lecture notes-3
+## Lecture notes-3: Constitutive Relationships with focus on Hookean LEHI model
 ![](Notes/Lecture3_Spring2026_MAE3128_set3.pdf){width="100%" height="800px"}
 
 <!-- <footer>

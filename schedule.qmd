@@ -197,8 +197,11 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>  
       <td>  
         <ul>          
-          <li>Equilibrium, Universal Solutions, and Inflation</li>
-          <!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
+          <li>Generalized Concepts of Stress and Strain</li>
+          <li>Normal and Shear Stress</li>
+          <li>2D Stress, Principal Stress and Principal Strain, Plane Stress and Plane Strain</li>
+          <li>Constitutive Relatioships with focus on Hookean LEHI model</li>
+          <li><a href="Week3.qmd" style="color:red;" target="_blank">Week-3 Notes</a></li>
         </ul>  
       </td>
       <td>
