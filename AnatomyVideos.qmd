@@ -1,13 +1,18 @@
 ---
-title: "Anatomy Video Tutorials relevant for MAE 3128"
+title: "Anatomy and Physiology videos relevant for MAE 3128"
 format: html
 ---
 
-:::{.callout-note}
-**Referencing this presentation:**
+:::{.callout-important}
 
-Bulusu, Kartik V. (2026, January). MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae3128.github.io/spring2026/](https://gwu-mae3128.github.io/spring2026/)
-
+**The videos are sourced from online content available in YouTube and other such sources. These videos are not developed by the instructor.**
+<!-- Bulusu, Kartik V. (2026, January). MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae3128.github.io/spring2026/](https://gwu-mae3128.github.io/spring2026/) -->
 :::
 
+## Week-1 Lecture
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3l3-5Ij3JZ8?si=E8mBwddobEAF4-ly" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Week-4 Lecture
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6f0n9zJWp_8?si=n8B0Pr3ie-2ddTh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3wpT-4bSmoU?si=546FxtYG8fkRrFqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

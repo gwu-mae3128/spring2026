@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Schedule – MAE 3128</title>
+<title>Week-4 – MAE 3128</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-09537c9ecba8558085948e1b802a414a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -101,7 +101,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Course policies</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./schedule.html" aria-current="page"> 
+    <a class="nav-link" href="./schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -150,15 +150,21 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#lecture-notes-universal-solutions-and-examples-with-biological-motivation" id="toc-lecture-notes-universal-solutions-and-examples-with-biological-motivation" class="nav-link active" data-scroll-target="#lecture-notes-universal-solutions-and-examples-with-biological-motivation">Lecture notes: Universal solutions and examples with biological motivation</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Schedule</h1>
+<h1 class="title">Week-4</h1>
 </div>
 
 
@@ -175,18 +181,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-
-
-<style>
-        body {
-            -webkit-user-select: none; /* Safari */
-            -moz-user-select: none; /* Firefox */
-            -ms-user-select: none; /* IE10+/Edge */
-            user-select: none; /* Standard */
-        }
-    </style>
-
-
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -198,700 +192,22 @@ Note
 </div>
 <div class="callout-body-container callout-body">
 <p><strong>Referencing this presentation:</strong></p>
-<p>Bulusu, Kartik V. (2026, January). MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.<a href="https://gwu-mae3128.github.io/spring2026/">https://gwu-mae3128.github.io/spring2026/</a></p>
+<p>Bulusu, Kartik V. (2026, January). Week-3 Presentation: MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.<a href="https://gwu-mae3128.github.io/spring2026/">https://gwu-mae3128.github.io/spring2026/</a></p>
 </div>
 </div>
-<p>Schedule [<em>week-by-week</em>]</p>
-<div class="callout callout-style-simple callout-warning">
+<div class="callout callout-style-simple callout-note">
 <div class="callout-body d-flex">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-body-container">
-<p><strong>The course schedule below will be updated on a weekly basis during the Spring 2026 semester.</strong></p>
+<p><strong>Course materials developed by Prof.&nbsp;Kartik Bulusu for MAE 3128-Spring 2026.</strong> Note: Slides cannot be viewed on mobile and handheld devives (such as phones and notebooks)</p>
 </div>
 </div>
 </div>
-<!-- ::: {.callout-important appearance="default" title="Final Project Due Date"}
-The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check-out the schedule to learn more about where to [submit all the deliverables](schedule.qmd#final-project).
-::: -->
-<style>
-        .thumbnail {
-            width: 100px; 
-            cursor: pointer;
-        }
-
-        #popupContainer {
-            display: none;
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.7);
-            justify-content: center;
-            align-items: center;
-        }
-
-        #popupImage {
-            max-width: 80%;
-            max-height: 80%;
-        }
-    </style>
-<table class="table table-hover w-auto">
-<colgroup>
-<col style="width:2%">
-<col style="width:28%">
-<col style="width:40%">
-<col style="width:8%">
-<col style="width:22%">
-</colgroup>
-<thead>
-<tr>
-<th scope="col">
-Date
-</th>
-<th scope="col">
-Readings
-</th>
-<th scope="col">
-Lecture Topic(s)
-</th>
-<th scope="col">
-Practice problems
-</th>
-<th scope="col">
-Assignment(s) due
-</th>
-<!--- <th scope="col">Column heading</th> -->
-</tr>
-</thead>
-<tbody>
-<!-- =============== -->
-<!-- WEEK 0 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 0 [01/14/2026]
-</th>
-<td>
-<ul>
-<li>
-Ch. 1
-</li>
-<li>
-Ch. 2 (p 47-68)
-</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Introduction to Biomechanics
-</li>
-<li>
-Review of Statics
-</li>
-<li>
-<a href="./Week0.html" style="color:red;" target="_blank">Week-0 Notes</a>
-</li>
-</ul>
-</td>
-<td>
-<ul>
-C1
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Notes 0
-</li>
-</ul>
-</td>
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-[01/19/2026]
-</th>
-<td colspan="5" style="text-align: center">
-Martin Luther King Jr.&nbsp;Day <br><strong>No Classes</strong> <!-- <br><strong><a href="Downloads/Midterm_presentation_template.pptx" style="color:red;" target="_blank">Midterm project presentation template [Download Template]</a></strong> -->
-</td>
-</tr>
-<!-- =============== -->
-<!-- WEEK 1 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 1 [01/21/2026]
-</th>
-<td>
-<ul>
-<li>
-Ch. 2 (p 68-100)
-</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Statics problems in Biomechnanics
-</li>
-<li>
-Building blocks of the musculoskeletal system
-</li>
-<li>
-Mechanics of the elbow
-</li>
-<li>
-Concept of Simple Stress and Simple Strain
-</li>
-<!-- <li>Introduction to Stress, Strain, and Constitutive Relationships</li> -->
-<li>
-<a href="./Week1.html" style="color:red;" target="_blank">Week-1 Notes</a>
-</li>
-</ul>
-</td>
-<td>
-<ul>
-C2
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Notes 1 (01/23)
-</li>
-</ul>
-</td>
-<!-- <td> Column content</td>  -->
-</tr>
-<!-- =============== -->
-<!-- WEEK 2 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 2 [01/28/2026]
-</th>
-<td>
-<ul>
-<li>
-Ch. 3 (p 109-125)
-</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Stress and Strain, and their Linear Relationship: Hooke’s Law
-</li>
-<li>
-Normal Stress and Normal Strain
-</li>
-<li>
-Shear Stress and Shear Strain, and Hooke’s Law Revisited
-</li>
-<li>
-Sign Convention and Notation
-</li>
-<li>
-<a href="./Week2.html" style="color:red;" target="_blank">Week-2 Notes</a>
-</li>
-</ul>
-</td>
-<td>
-<ul>
-C3
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Notes 2 (01/29)
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<!-- =============== -->
-<!-- WEEK 3 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 3 [02/04/2026]
-</th>
-<td>
-<ul>
-<li>
-Ch. 3 (p 125-155)
-</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Generalized Concepts of Stress and Strain
-</li>
-<li>
-Normal and Shear Stress
-</li>
-<li>
-2D Stress, Principal Stress and Principal Strain, Plane Stress and Plane Strain
-</li>
-<li>
-Constitutive Relatioships with focus on Hookean LEHI model
-</li>
-<li>
-<a href="./Week3.html" style="color:red;" target="_blank">Week-3 Notes</a>
-</li>
-</ul>
-</td>
-<td>
-<ul>
-C4
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Notes 3 (02/04)
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<!-- =============== -->
-<!-- WEEK 4 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 4 [02/11/2026]
-</th>
-<td>
-<ul>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Equilibrium, Universal Solutions, and Inflation
-</li>
-<!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
-</ul>
-</td>
-<td>
-<ul>
-C5
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Notes 4 (02/11)
-</li>
-<li>
-Homework 1 (02/11)
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-[02/16/2026]
-</th>
-<td colspan="5" style="text-align: center">
-Presidents’ Day <br><strong>No Classes</strong>
-</td>
-</tr>
-<!-- =============== -->
-<!-- WEEK 5 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 5 [02/18/2026]
-</th>
-<td>
-<ul>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Equilibrium, Universal Solutions, and Inflation
-</li>
-<!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
-</ul>
-</td>
-<td>
-<ul>
-C5
-</ul>
-</td>
-<td>
-<ul>
-<li>
-None
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<!-- =============== -->
-<!-- WEEK 6 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 6 [02/25/2026]
-</th>
-<td>
-<ul>
-<li>
-Ch. 4 (p 163-191)
-</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Examination-1 (Chs. 1-3)
-</li>
-<!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
-</ul>
-</td>
-<td>
-<ul>
-C5
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Homework 2 (02/25)
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<!-- =============== -->
-<!-- WEEK 7 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 7 [03/04/2026]
-</th>
-<td>
-<ul>
-<li>
-Ch. 4 (p 163-191)
-</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Extension and Torsion
-</li>
-<!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
-</ul>
-</td>
-<td>
-<ul>
-C6
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Notes 5 (03/04)
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-[03/09/2025] to [03/11/2026]
-</th>
-<td colspan="3" style="text-align: center">
-Spring Break. <br><strong>No class this week</strong>
-</td>
-<td>
-<ul>
-<li>
-None
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<!-- =============== -->
-<!-- WEEK 8 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 8 [03/18/2026]
-</th>
-<td>
-<ul>
-<li>
-Ch. 5 (p 213-250)
-</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Extension and Torsion
-</li>
-<!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
-</ul>
-</td>
-<td>
-<ul>
-C7
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Notes 6 (3/18)
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<!-- =============== -->
-<!-- WEEK 9 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 9 [03/25/2026]
-</th>
-<td>
-<ul>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-No Scheduled Class, but this is subject to change
-</li>
-<!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
-</ul>
-</td>
-<td>
-<ul>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-None
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<!-- =============== -->
-<!-- WEEK 10 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 10 [04/01/2026]
-</th>
-<td>
-<ul>
-<li>
-Ch. 5 (p 250-278)
-</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Bending and Buckling
-</li>
-<!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
-</ul>
-</td>
-<td>
-<ul>
-C8
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Notes 7 (04/01)
-</li>
-<li>
-Homework 3 (04/08)
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<!-- =============== -->
-<!-- WEEK 11 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 11 [04/08/2026]
-</th>
-<td>
-<ul>
-<li>
-Ch. 6 (p 289-307)
-</li>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Bending and Buckling
-</li>
-<!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
-</ul>
-</td>
-<td>
-<ul>
-C9
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Notes 8 (04/08)
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<!-- =============== -->
-<!-- WEEK 12 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 12 [04/15/2026]
-</th>
-<td>
-<ul>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Nonlinear Problems
-</li>
-<!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
-</ul>
-</td>
-<td>
-<ul>
-C10
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Notes 9 (04/15)
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<!-- =============== -->
-<!-- WEEK 13 -->
-<!-- =============== -->
-<tr class="table-secondary">
-<th scope="row">
-Week 13 [04/22/2026]
-</th>
-<td>
-<ul>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Review
-</li>
-<li>
-Examination-2 (Chs. 4-6)
-</li>
-<!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
-</ul>
-</td>
-<td>
-<ul>
-</ul>
-</td>
-<td>
-<ul>
-<li>
-Homework 4 (4/27)
-</li>
-</ul>
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-[04/27/2026]
-</th>
-<td colspan="5" style="text-align: center">
-Last Day of Classes <!-- <br><strong><a href="Downloads/Midterm_presentation_template.pptx" style="color:red;" target="_blank">Midterm project presentation template [Download Template]</a></strong> -->
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-[04/28/2026]
-</th>
-<td colspan="5" style="text-align: center">
-Make up day <!-- <br><strong><a href="Downloads/Midterm_presentation_template.pptx" style="color:red;" target="_blank">Midterm project presentation template [Download Template]</a></strong> -->
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-[04/29/2026]
-</th>
-<td colspan="5" style="text-align: center">
-Desginated Monday <!-- <br><strong><a href="Downloads/Midterm_presentation_template.pptx" style="color:red;" target="_blank">Midterm project presentation template [Download Template]</a></strong> -->
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-[04/30/2026] to [05/01/2026]
-</th>
-<td colspan="5" style="text-align: center">
-Reading Days <!-- <br><strong><a href="Downloads/Midterm_presentation_template.pptx" style="color:red;" target="_blank">Midterm project presentation template [Download Template]</a></strong> -->
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-[05/02/2026] to [05/08/2026]
-</th>
-<td colspan="5" style="text-align: center">
-<strong>Final Examination Week. <strong>There is no Final Exam for this course.</strong> </strong> <!-- <br><strong><a href="Downloads/Midterm_presentation_template.pptx" style="color:red;" target="_blank">Midterm project presentation template [Download Template]</a></strong> -->
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-<tr class="table-secondary">
-<th scope="row">
-[05/14/2026] to [05/17/2026]
-</th>
-<td colspan="5" style="text-align: center">
-Commencement Weekend <!-- <br><strong><a href="Downloads/Midterm_presentation_template.pptx" style="color:red;" target="_blank">Midterm project presentation template [Download Template]</a></strong> -->
-</td>
-<!--- <td>Column content</td> -->
-</tr>
-</tbody>
-</table>
+<section id="lecture-notes-universal-solutions-and-examples-with-biological-motivation" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-notes-universal-solutions-and-examples-with-biological-motivation">Lecture notes: Universal solutions and examples with biological motivation</h2>
+<p><embed src="Notes/Lecture4_Spring2026_MAE3128_set1.pdf" style="width:100.0%" height="800"></p>
 <!-- <footer>
   <p>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
   Author: Kartik Bulusu<br>
@@ -900,6 +216,7 @@ Commencement Weekend <!-- <br><strong><a href="Downloads/Midterm_presentation_te
 </footer> -->
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -929,6 +246,67 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp('/' + window.location.host + '/');
