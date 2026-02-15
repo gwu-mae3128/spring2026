@@ -231,7 +231,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
         <ul>          
           <li>Equilibrium, Universal Solutions, and Inflation</li>
           <li><a href="Week4.qmd" style="color:red;" target="_blank">Week-4 Notes</a></li>
-          <strong>IMPORTANT: Student are expected to review the lecture notes and companion videos to review the material before the next class</strong>
+          <strong>IMPORTANT: Students are expected to review the lecture notes and companion videos to review the material before the next class</strong>
         </ul>  
       </td>
       <td>
