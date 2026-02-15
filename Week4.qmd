@@ -16,6 +16,15 @@ Note: Slides cannot be viewed on mobile and handheld devives (such as phones and
 ## Lecture notes: Universal solutions and examples with biological motivation
 ![](Notes/Lecture4_Spring2026_MAE3128_set1.pdf){width="100%" height="800px"}
 
+## Lecture notes: Understanding Stress Variations in Continua and Taylor Series Expansions [ [Click here for the video](https://drive.google.com/file/d/1nOD54C6H54qEW_yIJrYcoWRs3spY8ag3/view?usp=share_link){target="_blank"} ]
+![](Notes/Lecture4_Spring2026_MAE3128_set2.pdf){width="100%" height="800px"}
+
+## Lecture notes: Derivation of Generalized Equilibrium Equation using Taylor Series Expansions [ [Click here for the video](https://drive.google.com/file/d/1nZX16rGqbajItQ1ZrTVJ8pwIaKrQQeFU/view?usp=share_link){target="_blank"} ]
+![](Notes/Lecture4_Spring2026_MAE3128_set3.pdf){width="100%" height="800px"}
+
+## Lecture notes: Derivation of Navier Space Equilibrium Equations using Hookean LEHI model [ [Click here for the video](https://drive.google.com/file/d/13Cd7yxhGixsVT-UnwpyvLgm9g-0fPwrG/view?usp=share_link){target="_blank"} ]
+![](Notes/Lecture4_Spring2026_MAE3128_set4.pdf){width="100%" height="800px"}
+
 
 <!-- <footer>
   <p>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
