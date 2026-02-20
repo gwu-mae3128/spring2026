@@ -1,0 +1,34 @@
+---
+title: "HW1-solutions"
+format html:
+---
+:::{.callout-note}
+**Referencing this presentation:**
+
+Bulusu, Kartik V. (2026, February). Week-3 Presentation: MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae3128.github.io/spring2026/](https://gwu-mae3128.github.io/spring2026/)
+
+:::
+
+::: {.callout-note appearance="simple"}
+**Course materials developed by Prof. Kartik Bulusu for MAE 3128-Spring 2026.**
+Note: Slides cannot be viewed on mobile and handheld devives (such as phones and notebooks)
+:::
+## Solutions to the HW1
+![](Notes/MAE3128_HW1_s2026_solutions.pdf){width="100%" height="800px"}
+
+<!-- ## Lecture notes: Understanding Stress Variations in Continua and Taylor Series Expansions [ [Click here for the video](https://drive.google.com/file/d/1nOD54C6H54qEW_yIJrYcoWRs3spY8ag3/view?usp=share_link){target="_blank"} ]
+![](Notes/Lecture4_Spring2026_MAE3128_set2.pdf){width="100%" height="800px"} -->
+
+<!-- ## Lecture notes: Derivation of Generalized Equilibrium Equation using Taylor Series Expansions [ [Click here for the video](https://drive.google.com/file/d/1nZX16rGqbajItQ1ZrTVJ8pwIaKrQQeFU/view?usp=share_link){target="_blank"} ]
+![](Notes/Lecture4_Spring2026_MAE3128_set3.pdf){width="100%" height="800px"}
+
+## Lecture notes: Derivation of Navier Space Equilibrium Equations using Hookean LEHI model [ [Click here for the video](https://drive.google.com/file/d/13Cd7yxhGixsVT-UnwpyvLgm9g-0fPwrG/view?usp=share_link){target="_blank"} ]
+![](Notes/Lecture4_Spring2026_MAE3128_set4.pdf){width="100%" height="800px"} -->
+
+
+<!-- <footer>
+  <p>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
+  Author: Kartik Bulusu<br>
+  Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
+  &copy; 2024 All rights reserved</p>
+</footer> -->

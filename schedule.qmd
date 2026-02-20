@@ -242,7 +242,8 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       <td>
         <ul>
           <li>Notes 4 (02/11)</li>   
-          <li>Homework 1 (02/11)</li>               
+          <li>Homework 1 (02/11)</li>    
+          <li><a href="HW1_solutions.qmd" style="color:red;" target="_blank">Homework 1 solutions</a></li>                     
         </ul>      
       </td>
       <!--- <td>Column content</td> -->
