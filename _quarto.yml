@@ -20,7 +20,8 @@ website:
           - href: Week2.qmd 
           - href: Week3.qmd        
           - href: Week4.qmd      
-          - href: HW1_solutions.qmd                               
+          - href: HW1_solutions.qmd    
+          - href: Week5.qmd                                      
       - instructor.qmd            
 
 format:

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Biomechanics-I – MAE 3128</title>
+<title>Week-5 – MAE 3128</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -38,7 +38,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-09537c9ecba8558085948e1b802a414a.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6bd9cfa162949bde0a231f530c97869d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -163,7 +163,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#course-and-contact-information" id="toc-course-and-contact-information" class="nav-link active" data-scroll-target="#course-and-contact-information">Course and Contact Information</a></li>
+  <li><a href="#lecture-notes-set1-generalized-equilibrium-equations-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video" id="toc-lecture-notes-set1-generalized-equilibrium-equations-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video" class="nav-link active" data-scroll-target="#lecture-notes-set1-generalized-equilibrium-equations-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video">Lecture notes (Set1): Generalized Equilibrium Equations: Thick-walled, Pressurized Cylinder Inflation Problem [ Click here for the video ]</a></li>
+  <li><a href="#lecture-notes-set2-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video" id="toc-lecture-notes-set2-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video" class="nav-link" data-scroll-target="#lecture-notes-set2-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video">Lecture notes (Set2): Thick-walled, Pressurized Cylinder Inflation Problem [ Click here for the video ]</a></li>
+  <li><a href="#lecture-notes-set3-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video" id="toc-lecture-notes-set3-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video" class="nav-link" data-scroll-target="#lecture-notes-set3-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video">Lecture notes (Set3): Thick-walled, Pressurized Cylinder Inflation Problem [ Click here for the video ]</a></li>
+  <li><a href="#lecture-notesset4-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video" id="toc-lecture-notesset4-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video" class="nav-link" data-scroll-target="#lecture-notesset4-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video">Lecture notes(Set4): Thick-walled, Pressurized Cylinder Inflation Problem [ Click here for the video ]</a></li>
   </ul>
 </nav>
     </div>
@@ -172,7 +175,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Biomechanics-I</h1>
+<h1 class="title">Week-5</h1>
 </div>
 
 
@@ -189,9 +192,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<h2 class="anchored">
-From introduction to interface with the physical world
-</h2>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -203,64 +203,35 @@ Note
 </div>
 <div class="callout-body-container callout-body">
 <p><strong>Referencing this presentation:</strong></p>
-<p>Bulusu, Kartik V. (2026, January). MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.<a href="https://gwu-mae3128.github.io/spring2026/">https://gwu-mae3128.github.io/spring2026/</a></p>
+<p>Bulusu, Kartik V. (2026, February). Week-5 Presentation: MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.<a href="https://gwu-mae3128.github.io/spring2026/">https://gwu-mae3128.github.io/spring2026/</a></p>
 </div>
 </div>
-<style>
-* {
-  box-sizing: border-box;
-}
-/* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-  height: 350px; /* Should be removed. Only for demonstration */
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-</style>
-<section id="course-and-contact-information" class="level3">
-<h3 class="anchored" data-anchor-id="course-and-contact-information">Course and Contact Information</h3>
-<div class="row">
-<div class="column">
-<ul>
-<li><strong>MAE 3128:</strong> Biomechanics-I</li>
-<li><strong>Semester:</strong> Spring 2026</li>
-<li><strong>Credits:</strong> 3</li>
-<li><strong>Meeting times:</strong> Wednesday 10:00 AM — 12:30 PM (Lectures)</li>
-<li><strong>Location:</strong> SEH 3040</li>
-<li><a href="https://gwu-mae3128.github.io/spring2026/"><strong>Course website</strong></a> <!-- [https://gwu-mae6291-iot.github.io/spring2025/] --></li>
-<li><strong>Instructor information</strong> <a href="./instructor.html">can be found here</a>
-</li></ul></div>
-
-<div class="column">
-<img src="./images/noun-biomechanical-7568986.png" alt="IoT icon" style="object-fit:contain width:250px;height:250px; margin-right: 10px;"><br>
-<p>
-<font size="1"><a href="https://thenounproject.com/browse/icons/term/biomechanical/" target="_blank" title="biomechanical Icons">Noun Project</a> (CC BY 3.0)</font>
-</p>
+<div class="callout callout-style-simple callout-note">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Course materials developed by Prof.&nbsp;Kartik Bulusu for MAE 3128-Spring 2026.</strong> Note: Slides cannot be viewed on mobile and handheld devives (such as phones and notebooks)</p>
 </div>
 </div>
-<!-- ### Github Repo (updated weekly) -->
-<!-- ```python
-TBA
-``` -->
-<!-- ```python -->
-<!-- git clone https://github.com/gwu-mae6291-iot/spring2025_codes.git -->
-<!-- ``` -->
-<section id="course-description" class="level3">
-<h3 class="anchored" data-anchor-id="course-description">Course description</h3>
-<p>This Biomechanics course introduces the mechanical analysis of biological tissues and systems, with an emphasis on both fundamentals and applications. Students first explore the historical development and modern scope of biomechanics, then learn the foundations of continuum mechanics as they apply to biological materials.</p>
-<p>This course teaches the mechanical analysis of biological systems. This includes characterization of living tissue and the applications of statics, solid mechanics, kinematics, and elementary dynamics to the human musculoskeletal system.</p>
-<p>Building on this, the course develops equilibrium equations and constitutive relations for biosolid mechanics, and applies these tools to understand the behavior of hard tissues (such as bone and other load‑bearing structures) and soft tissues (such as muscle, tendons, ligaments, and other compliant biological materials).</p>
-<!-- 
-<br><br>
-<footer>
+</div>
+<section id="lecture-notes-set1-generalized-equilibrium-equations-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-notes-set1-generalized-equilibrium-equations-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video">Lecture notes (Set1): Generalized Equilibrium Equations: Thick-walled, Pressurized Cylinder Inflation Problem [ <a href="https://drive.google.com/file/d/1nkXLP-E9vP60hcWnFysqt_C1wTSdqIX_/view?usp=sharing" target="_blank">Click here for the video</a> ]</h2>
+<p><embed src="Notes/Lecture5_Spring2026_MAE3128_set1.pdf" style="width:100.0%" height="800"></p>
+</section>
+<section id="lecture-notes-set2-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-notes-set2-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video">Lecture notes (Set2): Thick-walled, Pressurized Cylinder Inflation Problem [ <a href="https://drive.google.com/file/d/1woJ-XZzFETtFxTDO1qRHbAdlKUL3F0JO/view?usp=sharing" target="_blank">Click here for the video</a> ]</h2>
+<p><embed src="Notes/Lecture5_Spring2026_MAE3128_set2.pdf" style="width:100.0%" height="800"></p>
+</section>
+<section id="lecture-notes-set3-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-notes-set3-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video">Lecture notes (Set3): Thick-walled, Pressurized Cylinder Inflation Problem [ <a href="https://drive.google.com/file/d/16D2cdKHOEDqCRBqOhoOAeURbTndPgEiO/view?usp=sharing" target="_blank">Click here for the video</a> ]</h2>
+<p><embed src="Notes/Lecture5_Spring2026_MAE3128_set3.pdf" style="width:100.0%" height="800"></p>
+</section>
+<section id="lecture-notesset4-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video" class="level2">
+<h2 class="anchored" data-anchor-id="lecture-notesset4-thick-walled-pressurized-cylinder-inflation-problem-click-here-for-the-video">Lecture notes(Set4): Thick-walled, Pressurized Cylinder Inflation Problem [ <a href="https://drive.google.com/file/d/182WXgW2RIoDgl5hUkOYqhBWC4KspSqU4/view?usp=sharing" target="_blank">Click here for the video</a> ]</h2>
+<p><embed src="Notes/Lecture5_Spring2026_MAE3128_set4.pdf" style="width:100.0%" height="800"></p>
+<!-- <footer>
   <p>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
   Author: Kartik Bulusu<br>
   Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
@@ -269,10 +240,8 @@ TBA
 
 
 </section>
-</section></main></div>
 
-
- <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -690,7 +659,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
 });
 </script>
- <!-- /content -->
+</div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">

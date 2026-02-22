@@ -1,0 +1,34 @@
+---
+title: "Week-5"
+format html:
+---
+:::{.callout-note}
+**Referencing this presentation:**
+
+Bulusu, Kartik V. (2026, February). Week-5 Presentation: MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae3128.github.io/spring2026/](https://gwu-mae3128.github.io/spring2026/)
+
+:::
+
+::: {.callout-note appearance="simple"}
+**Course materials developed by Prof. Kartik Bulusu for MAE 3128-Spring 2026.**
+Note: Slides cannot be viewed on mobile and handheld devives (such as phones and notebooks)
+:::
+## Lecture notes (Set1): Generalized Equilibrium Equations: Thick-walled, Pressurized Cylinder Inflation Problem [ [Click here for the video](https://drive.google.com/file/d/1nkXLP-E9vP60hcWnFysqt_C1wTSdqIX_/view?usp=sharing){target="_blank"} ]
+![](Notes/Lecture5_Spring2026_MAE3128_set1.pdf){width="100%" height="800px"}
+
+## Lecture notes (Set2): Thick-walled, Pressurized Cylinder Inflation Problem [ [Click here for the video](https://drive.google.com/file/d/1woJ-XZzFETtFxTDO1qRHbAdlKUL3F0JO/view?usp=sharing){target="_blank"} ]
+![](Notes/Lecture5_Spring2026_MAE3128_set2.pdf){width="100%" height="800px"}
+
+## Lecture notes (Set3): Thick-walled, Pressurized Cylinder Inflation Problem [ [Click here for the video](https://drive.google.com/file/d/16D2cdKHOEDqCRBqOhoOAeURbTndPgEiO/view?usp=sharing){target="_blank"} ]
+![](Notes/Lecture5_Spring2026_MAE3128_set3.pdf){width="100%" height="800px"}
+
+## Lecture notes(Set4): Thick-walled, Pressurized Cylinder Inflation Problem [ [Click here for the video](https://drive.google.com/file/d/182WXgW2RIoDgl5hUkOYqhBWC4KspSqU4/view?usp=sharing){target="_blank"} ]
+![](Notes/Lecture5_Spring2026_MAE3128_set4.pdf){width="100%" height="800px"}
+
+
+<!-- <footer>
+  <p>This is a Quarto website. To learn more about Quarto websites visit <https://quarto.org/docs/websites>.<br>
+  Author: Kartik Bulusu<br>
+  Contact: <a href="mailto:bulusu@gwu.edu">bulusu</a><br>
+  &copy; 2024 All rights reserved</p>
+</footer> -->
