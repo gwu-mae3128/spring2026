@@ -31,7 +31,10 @@ format:
       - brand
     css: styles.css
     toc: true
-
+  # pdf:
+  #   toc: true
+  #   number-sections: true
+  #   # other pdf options like colorlinks
 
 # project:
 #   type: website

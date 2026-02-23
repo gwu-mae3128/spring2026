@@ -46,7 +46,7 @@ Bulusu, Kartik V. (2026, January). MAE 3128 Biomechanics-I. [Course lecture note
       <img src="images/20160728facultybioshots_SEAS_GWU_40.jpg" alt="instructor" style="object-fit:contain width:400px;height:400px; margin-right: 10px;" />
       <!-- <small>Dr. Kartik Bulusu</small><br> -->
 
-      **Campus Address:** SEH 4614 
+      **Campus Address:** SEH 4615 
 
       **Office Hours:** TBA
 
