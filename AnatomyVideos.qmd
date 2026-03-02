@@ -16,3 +16,6 @@ format: html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6f0n9zJWp_8?si=n8B0Pr3ie-2ddTh4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3wpT-4bSmoU?si=546FxtYG8fkRrFqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Week-5 Lecture
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZRjJp4Jl1QM?si=RuTPL-121B0Y4l01" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
