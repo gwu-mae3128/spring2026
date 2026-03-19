@@ -24,7 +24,8 @@ website:
           - href: Week5.qmd  
           - text: "MIdterm Exam (No Lecture)"
             href: schedule.qmd
-          - href: Week7.qmd                                      
+          - href: Week7.qmd     
+          - href: Week8.qmd                                             
       - instructor.qmd            
 
 format:
