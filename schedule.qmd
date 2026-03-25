@@ -402,8 +402,8 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>  
       <td>  
         <ul>          
-          <li>No Scheduled Class, but this is subject to change</li>
-          <!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
+          <li>Problem set discussion</li>          
+          <li><a href="Week9.qmd" style="color:red;" target="_blank">Week-9 Notes</a></li>
         </ul>  
       </td>
       <td>

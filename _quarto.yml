@@ -22,10 +22,11 @@ website:
           - href: Week4.qmd      
           - href: HW1_solutions.qmd    
           - href: Week5.qmd  
-          - text: "MIdterm Exam (No Lecture)"
+          - text: "Midterm Exam (No Lecture)"
             href: schedule.qmd
           - href: Week7.qmd     
-          - href: Week8.qmd                                             
+          - href: Week8.qmd   
+          - href: Week9.qmd                                                     
       - instructor.qmd            
 
 format:
