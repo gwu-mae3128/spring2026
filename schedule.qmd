@@ -335,7 +335,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          C6
+          C6-1
         </ul>
       </td>
       <td>
@@ -379,7 +379,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          C7
+          None
         </ul>
       </td>
       <td>
@@ -408,11 +408,12 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
+        Anatomy Quiz-1
         </ul>
       </td>
       <td>
         <ul>
-          <li>None</li>       
+          None    
         </ul>      
       </td>
       <!--- <td>Column content</td> -->
@@ -431,13 +432,15 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>  
       <td>  
         <ul>          
-          <li>Bending and Buckling</li>
+          <li>Problem set discussion continued from Week 9</li>
+          <li>Introduction to Bending</li>
           <!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
         </ul>  
       </td>
       <td>
         <ul>
-          C8
+          <li>Anatomy Quiz-2</li>
+          <li>C6-2</li>
         </ul>
       </td>
       <td>
@@ -469,7 +472,8 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          C9
+        C7
+          <!-- C9 -->
         </ul>
       </td>
       <td>
@@ -493,13 +497,14 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>  
       <td>  
         <ul>          
-          <li>Nonlinear Problems</li>
+          <li>Buckling, Viscoelasticity and Nonlinear Problems</li>
           <!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
         </ul>  
       </td>
       <td>
         <ul>
-          C10
+        C8
+          <!-- C10 -->
         </ul>
       </td>
       <td>
@@ -523,7 +528,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       <td>  
         <ul>          
           <li>Review</li>
-          <li>Examination-2 (Chs. 4-6)</li>
+          <li>Examination-2 (Chs. 4-6 or Comprehensive) will be held during exam week</li>
           <!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
         </ul>  
       </td>
@@ -573,7 +578,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
    
 <tr class="table-secondary">
       <th scope="row">[05/02/2026] to [05/08/2026]</th>
-      <td colspan="5" style="text-align: center"> <strong>Final Examination Week. **There is no Final Exam for this course.** </strong>
+      <td colspan="5" style="text-align: center"> <strong>Final Examination Week </strong>
       <!-- <br><strong><a href="Downloads/Midterm_presentation_template.pptx" style="color:red;" target="_blank">Midterm project presentation template [Download Template]</a></strong> -->
       </td> 
       <!--- <td>Column content</td> -->
