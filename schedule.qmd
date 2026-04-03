@@ -434,7 +434,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
         <ul>          
           <li>Problem set discussion continued from Week 9</li>
           <li>Introduction to Bending</li>
-          <!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
+          <li><a href="Week10.qmd" style="color:red;" target="_blank">Week-10 Notes</a></li>
         </ul>  
       </td>
       <td>
@@ -466,13 +466,14 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>  
       <td>  
         <ul>          
-          <li>Bending and Buckling</li>
+          <li>Bending</li>
           <!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
         </ul>  
       </td>
       <td>
         <ul>
-        C7
+          <li>Anatomy Quiz-3</li>
+          <li>C7</li>
           <!-- C9 -->
         </ul>
       </td>

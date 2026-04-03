@@ -26,7 +26,8 @@ website:
             href: schedule.qmd
           - href: Week7.qmd     
           - href: Week8.qmd   
-          - href: Week9.qmd                                                     
+          - href: Week9.qmd         
+          - href: Week10.qmd                                               
       - instructor.qmd            
 
 format:

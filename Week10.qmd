@@ -1,11 +1,11 @@
 ---
-title: "Week-9"
+title: "Week-10"
 format html:
 ---
 :::{.callout-note}
 **Referencing this presentation:**
 
-Bulusu, Kartik V. (2026, March). Week-9 Presentation: MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae3128.github.io/spring2026/](https://gwu-mae3128.github.io/spring2026/)
+Bulusu, Kartik V. (2026, April). Week-10 Presentation: MAE 3128 Biomechanics-I. [Course lecture notes, codes and presentations]. Department of Mechanical and Aerospace Engineering, The George Washington University.[https://gwu-mae3128.github.io/spring2026/](https://gwu-mae3128.github.io/spring2026/)
 
 :::
 
@@ -14,7 +14,7 @@ Bulusu, Kartik V. (2026, March). Week-9 Presentation: MAE 3128 Biomechanics-I. [
 Note: Slides cannot be viewed on mobile and handheld devives (such as phones and notebooks)
 :::
 ## Lecture notes (Set0): Problem set discussion 
-![](Notes/Lecture9_Spring2026_MAE3128_set0.pdf){width="100%" height="800px"}
+![](Notes/Lecture10_Spring2026_MAE3128_set0.pdf){width="100%" height="800px"}
 
 <!-- ## Lecture notes (Set1): Torsion: Deformation, Angle of Twist and Principal Stresses and Strains 
 ![](Notes/Lecture8_Spring2026_MAE3128_set1.pdf){width="100%" height="800px"} -->
