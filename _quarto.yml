@@ -27,7 +27,8 @@ website:
           - href: Week7.qmd     
           - href: Week8.qmd   
           - href: Week9.qmd         
-          - href: Week10.qmd                                               
+          - href: Week10.qmd 
+          - href: Week11.qmd                                                         
       - instructor.qmd            
 
 format:
