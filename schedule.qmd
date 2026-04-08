@@ -466,8 +466,8 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>  
       <td>  
         <ul>          
-          <li>Bending</li>
-          <!-- <li><a href="Week11.qmd" style="color:red;" target="_blank">Week-11 Notes</a></li> -->
+          <li>Bending + One problem</li>
+          <li><a href="Week11.qmd" style="color:red;" target="_blank">Week-11 Notes</a></li>
         </ul>  
       </td>
       <td>
