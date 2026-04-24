@@ -445,7 +445,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>Notes 7 (04/01 until 04/22)</li>   
+          <li>Notes 7 (from 04/01 until 04/22) to be submitted on 04/27</li>   
           <li>Homework 3 (04/08)</li>               
         </ul>      
       </td>
@@ -499,7 +499,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       <td>  
         <ul>          
           <li>Shear and Bending Moments + Generalized Differential Equations for Beam deflection</li>
-          <!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
+          <li><a href="Week12.qmd" style="color:red;" target="_blank">Week-12 Notes</a></li>
         </ul>  
       </td>
       <td>
@@ -532,7 +532,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
         <ul>          
           <li>One problem differential equations problem involving Beam Deflection + Buckling and some Review</li>
           <!-- <li>Examination-2 (Chs. 4-6 or Comprehensive) will be held during exam week</li> -->
-          <!-- <li><a href="Week0.qmd" style="color:red;" target="_blank">Week-0 Notes</a></li> -->
+          <li><a href="Week13.qmd" style="color:red;" target="_blank">Week-13 Notes</a></li>
         </ul>  
       </td>
       <td>
@@ -541,7 +541,7 @@ The Final Project deliverables are due on **December 05, 2023, 11:59 PM**. Check
       </td>
       <td>
         <ul>
-          <li>Homework 4 (4/27)</li>             
+          <li>Homework 4 (4/29)</li>             
         </ul>      
       </td>
       <!--- <td>Column content</td> -->
