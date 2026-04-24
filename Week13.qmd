@@ -16,7 +16,7 @@ Note: Slides cannot be viewed on mobile and handheld devives (such as phones and
 ## Lecture notes (Set0): One problem differential equations problem involving Beam Deflection 
 ![](Notes/Lecture13_Spring2026_MAE3128_set0.pdf){width="100%" height="800px"}
 
-## Lecture notes (Set1): + Buckling
+## Lecture notes (Set1): Buckling
 ![](Notes/Lecture13_Spring2026_MAE3128_set1.pdf){width="100%" height="800px"}
 
 <!-- ## Lecture notes (Set2): Thick-walled, Pressurized Cylinder Inflation Problem [ [Click here for the video](https://drive.google.com/file/d/1woJ-XZzFETtFxTDO1qRHbAdlKUL3F0JO/view?usp=sharing){target="_blank"} ]
