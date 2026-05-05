@@ -32,7 +32,8 @@ website:
           - href: Week13.qmd     
           - href: HW1_solutions.qmd    
           - href: HW2_solutions.qmd    
-          - href: HW3_solutions.qmd                                                                                              
+          - href: HW3_solutions.qmd 
+          - href: HW4_solutions.qmd                                                                                                        
       - instructor.qmd            
 
 format:
