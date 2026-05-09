@@ -67,18 +67,18 @@ Two exams (midterm and final) will be given (check the dates now!).
 - Exams must be completed using paper and pen/pencil only.
 - Each exam is worth 30 points and is not strictly cumulative.  However, concepts will build on one another, so knowledge of prior topics may still be required.
 
-## Grading - List of what will be counted and percentages (as used in Spring 2025 and can be changed in Spring 2026).
+## Grading - List of what will be counted and percentages in Spring 2026.
 
 - In-class problem solving and Homework, 20%
 - Course notes, 20%
 - Midterm exam, 30%
 - Final exam, 30%
 
-<!-- ## Grading Scale (subject to change during Spring 2025) -->
+## Grading Scale in Spring 2026.
 
-<!-- The following grading scale will be applied at the end of the semester to calculate letter grades: 90-100: A, 84-89: A-, 78-83: B+, 72-77: B, 66-71: B-, 60-65: C+, 56-59: C, 52-55: C-, 46-51: D, 0-45: F.
+The following grading scale will be applied at the end of the semester to calculate letter grades: 90-100: A, 84-89: A-, 78-83: B+, 72-77: B, 66-71: B-, 60-65: C+, 56-59: C, 52-55: C-, 46-51: D, 0-45: F.
 
-Grades are "rounded up" to the nearest integer. -->
+Grades are "rounded up" to the nearest integer.
 
 <!-- 95-100: A, 90-94: A-, 85-89: B+, 80-84: B, 75-79: B-, 70-74: C+, 65-69: C, 60-64: C-, 50-59: D, < 50: F. -->
 
