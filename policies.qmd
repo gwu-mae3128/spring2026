@@ -69,7 +69,7 @@ Two exams (midterm and final) will be given (check the dates now!).
 
 ## Grading - List of what will be counted and percentages in Spring 2026.
 
-- In-class problem solving and Homework, 20%
+- In-class problem solving, Quizzes and Homework, 20%
 - Course notes, 20%
 - Midterm exam, 30%
 - Final exam, 30%
